@@ -1,0 +1,73 @@
+@import "https://fonts.googleapis.com/css?family=Kanit|Ubuntu";
+
+body
+{
+  background-color: #81F79F;
+  background-position: center;
+}
+
+.titulo
+{
+text-align: center;
+font-size: 70px;
+font-weight: 600;
+font-family: 'Ubuntu', sans-serif;
+color: #04B45F;
+}
+
+.borde
+{
+  width: 510px;
+  margin: 0 auto;
+  background-color: #04B45F;
+}
+
+.interior
+{
+  width: 500px;
+  margin: 0 auto;
+  background-color: #81F79F;
+}
+
+.botoncito1
+{
+  text-align: center;
+  font-size: 50px;
+  border: solid #81F79F;
+  background-color: #81F79F;
+  color: #04B45F;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.botoncito
+{
+  text-align: center;
+  border: solid #81F79F;
+  background-color: #81F79F;
+  color: #04B45F;
+  font-weight: bold;
+}
+
+
+.text
+{
+  width: 320px;
+  height: 25px;
+  border: solid #04B45F;
+  margin: 0 auto;
+  text-align: center;
+  border-radius: 8px;
+  font-size: 20px;
+  font-family: 'Ubuntu', sans-serif;
+  background-color: #81F79F;
+}
+
+::-webkit-input-placeholder { color: #04B45F; }
+::-moz-input-placeholder { color: #04B45F; }
+
+.credito
+{
+    font-family: 'Ubuntu', sans-serif;
+    color: #04B45F;
+}
